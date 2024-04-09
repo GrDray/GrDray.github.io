@@ -10,21 +10,20 @@ permalink: /about/
   -->
 </p>
 
+##education
+  * Bachelor's degree in Electrical Engineering at NTOU, Taiwan
+    
+I am currently preparing for the TOEFL english test in order to persue master degree in the U.S.  And in january 2024 I have obtained my bachelor's degree in Electrical Engineering.
 
-Hydure is a concise two-column blog theme for Jekyll. It is built on the [Pure.css](https://github.com/pure-css/pure) framework.
+##bio
+I am a nerd. yeah. 
+Obviously, I am a guy be enthusiastic about technology, love those high tech stuff appear in sci-fi, imagine if it becomes real, that makes me feel excited. I am also a big fan of Japanese Manga, and now trying hard to draw my own one !
 
-Learn more and contribute on [GitHub](https://github.com/zivong/jekyll-theme-hydure).
+##language
+  * Chinese
+  * English
+  * Japanese
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Visual Studio Code](https://code.visualstudio.com/), an amazing open-source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/zivong/jekyll-theme-hydure/issues/new) or [ask me on Twitter](https://twitter.com/zivong91).
 
 Thanks for reading!
 
-The default cover image is from [Steven Aguilar](https://unsplash.com/@eysteve), thanks!
