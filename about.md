@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  <!--Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  -->
 </p>
+
 
 Hydure is a concise two-column blog theme for Jekyll. It is built on the [Pure.css](https://github.com/pure-css/pure) framework.
 
