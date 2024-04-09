@@ -1,9 +1,9 @@
-title: Robotics
-tagline: with Deep Learning
+title: Ronniez note
+tagline: about Tech & Life
 
 author:
-  name: Richard Kuo
-  url: https://www.facebook.com/richard.kuo.168
+  name: Ronnie Tsao
+  url: https://www.facebook.com/profile.php?id=100011899186925&locale=zh_TW
 
 plugins:
   - jekyll-feed
